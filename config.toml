@@ -1,5 +1,0 @@
-baseURL = "https://mlybollinger.github.io/"
-contentDir = "content"
-languageCode = "en-us"
-title = "Matthew Bollinger"
-theme = "zen"
